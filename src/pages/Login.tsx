@@ -38,7 +38,7 @@ export default function Login() {
       <Card className="w-full max-w-md border-border bg-card shadow-2xl">
         <CardHeader className="space-y-2 text-center">
           <CardTitle className="text-3xl font-serif text-primary tracking-wide">
-            Grupo Cogni
+            Plataforma Metanoia
           </CardTitle>
           <CardDescription className="text-muted-foreground">
             Entre para acessar seu ambiente de evolução.

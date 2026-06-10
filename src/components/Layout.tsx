@@ -41,7 +41,7 @@ export default function Layout() {
         <Sidebar variant="inset" className="border-r border-border">
           <SidebarHeader className="p-6 border-b border-border/50">
             <h1 className="text-2xl font-serif text-primary tracking-wider text-center">
-              Grupo Cogne
+              Plataforma Metanoia
             </h1>
           </SidebarHeader>
           <SidebarContent>
